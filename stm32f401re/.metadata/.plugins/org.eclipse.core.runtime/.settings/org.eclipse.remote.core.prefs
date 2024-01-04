@@ -1,0 +1,6 @@
+connections/org.eclipse.remote.serial.core.connectionType/STM32F401RE/serial.baudRate=6
+connections/org.eclipse.remote.serial.core.connectionType/STM32F401RE/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/STM32F401RE/serial.parity=2
+connections/org.eclipse.remote.serial.core.connectionType/STM32F401RE/serial.portName=COM10
+connections/org.eclipse.remote.serial.core.connectionType/STM32F401RE/serial.stopBits=0
+eclipse.preferences.version=1
